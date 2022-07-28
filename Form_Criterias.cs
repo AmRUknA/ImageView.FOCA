@@ -25,6 +25,7 @@ namespace ImageView
 
         private void Form_Criterias_Load(object sender, EventArgs e)
         {
+            Console.WriteLine("test");
            ReadAndWriteXMLFile();
         }
         void ReadAndWriteXMLFile()

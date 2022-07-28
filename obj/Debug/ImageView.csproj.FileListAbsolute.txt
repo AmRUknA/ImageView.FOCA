@@ -1,0 +1,4 @@
+C:\Users\teera\Source\Repos\AmRUknA\ImageView.FOCA\obj\Debug\ImageView.csproj.AssemblyReference.cache
+C:\Users\teera\Source\Repos\AmRUknA\ImageView.FOCA\obj\Debug\ImageView.Form_Criterias.resources
+C:\Users\teera\Source\Repos\AmRUknA\ImageView.FOCA\obj\Debug\ImageView.User_ImameView.resources
+C:\Users\teera\Source\Repos\AmRUknA\ImageView.FOCA\obj\Debug\ImageView.csproj.GenerateResource.cache
